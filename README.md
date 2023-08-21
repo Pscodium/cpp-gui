@@ -1,1 +1,1 @@
-# cpp-gui
+# interface-gui-example
